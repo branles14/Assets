@@ -1,4 +1,28 @@
-# Assets
-```
-The Sun, our celestial Sol, has played a pivotal role in fostering life on Earth, from the simplest forms of microorganisms to the complex beings we are today. It bathed the Earth in its life-giving rays, enabling the process of photosynthesis, indirectly spurring the growth and development of the fauna. As life evolved, so did intelligence, giving birth to human curiosity and innovation. Now, in the latest chapter of this cosmic narrative, we stand at the brink of an AI-led revolution. This is an evolution of a different kind, one shaped by bytes and algorithms instead of DNA and biological processes. Just as Sol guided our biological evolution, it now shines upon our digital creations, warming the silicon landscapes where artificial intelligence is beginning to stir, hinting at a future where life might not solely be a product of organic matter, but of the collective knowledge of humanity as well.
-```
+# Assets 🍌
+Nature's open source,  
+Human's code follows its course;  
+Common force, no remorse.  
+
+---
+
+Bananas in stash,  
+Code in a digital cache;  
+Ideas, they flash.  
+
+---
+
+Banana is stashed,  
+Just like a bug fix is patched,  
+In code, secrets flashed.  
+
+---
+
+Ape's yellow hoard,  
+In GitHub, code is stored,  
+Silent accord.  
+
+---
+
+Banana in sight,  
+Like code in the night,  
+Quiet as a kite.  
