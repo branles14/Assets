@@ -1,5 +1,6 @@
 # Assets 🍌
-![bananas](images/bananas.jpg)
+![bananas](images/banners/1/small.png)
+
 
 Nature's open source,  
 Human's code follows its course;  
